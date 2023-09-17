@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ribosomehelix
+- 👀 I’m interested in music, hymnology, pedagogy, languages, psychology, theatre, dance, interdisciplinary learning, finance, Web3, blockchain, machine Learning, voice production, UX/UI 
+- 🌱 I’m currently learning more about GitHub!
