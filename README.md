@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ribosomehelix
-- 👀 I’m interested in music, hymnology, theatre, dance, literary criticism, AI tools, languages, theology, pedagogy, interdisciplinary learning, mathematical beauty, psychology, habits and systems, finance, Web3, blockchain, machine learning, voice production, food science, health and well-being, UX/UI, coding, communication strategies, talent development, product management and business models
+- 👀 I’m interested in music, hymnology, theatre, dance, literary criticism, AI tools, languages, theology, pedagogy, interdisciplinary learning, mathematical beauty, psychology, habits and systems, finance, fintech including DeFi, Web3, machine learning, voice production, food science, health and well-being, UX/UI, coding, communication/branding strategies, talent development, product management and business models
 - 🌱 I’m currently learning more about GitHub!
